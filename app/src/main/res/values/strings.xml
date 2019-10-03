@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="tempValue">Temperature</string>
+    <string name="tempUnit">Temp Scale</string>
+    <string name="celsius">C</string>
+    <string name="fahrenheit">F</string>
+    <string name="kelvin">K</string>
+    <string name="convert_button">Convert Temp</string>
+
+</resources>
